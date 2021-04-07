@@ -1,0 +1,8 @@
+{
+    "name": "Portfolio ",
+    "description": "Portfolio de magniez justion en application node",
+    "repository": "https://github.com/heroku/node-js-getting-started",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+  }
+  
